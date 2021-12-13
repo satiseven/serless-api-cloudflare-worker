@@ -1,0 +1,8 @@
+name = "serless-api"
+type = "javascript"
+
+account_id = "b2221217393b9bc2a67eda7ce10c6faa"
+workers_dev = true
+route = ""
+zone_id = ""
+compatibility_date = "2021-12-13"
